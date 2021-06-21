@@ -4,11 +4,8 @@
 80#VERS#BASED####: permalink, permalink, permalink
 80#VERS#COLLATED#: permalink, permalink, permalink
 80#VERS#LINKS####: all@id, vol1@id, vol2@id, vol3@id, volX@id
-90#VERS#ANNOTATOR: the name of the annotator (latin characters; please
-    use consistently)
-90#VERS#COMMENT##: a free running comment here; you can add as many
-    lines as you see fit; the main goal of this comment section is to have a
-    place to record valuable information, which is difficult to formalize
-    into the above given categories.
-90#VERS#DATE#####: YYYY-MM-DD
-90#VERS#ISSUES###: formalized issues, separated with commas
+90#VERS#ANNOTATOR: Gowaart Van Den Bossche
+90#VERS#COMMENT##: The auto-tagging was not entirely succesful in this text, needed significant cleaning up. I have done so with regex, but the easiest way to do it resulted in not all names being confined to one line. A lot of them are still on two or more lines and sometimes spread over pages (as is the case in the edition), which perhaps needs to be addressed later on. 
+ I deleted editorial sections and footnote markers, tagged poetry (there were a handful of cases of overtagging, i.e. of non-poetry being tagged, which I have deleted, but some may remain). Pagination appears to be correct, though I had to change every PageV06 to PageV05 (volume 6 is made up of indices that are not part of the digital text). There are quite a few empty biographies, these are also empty in the edition.
+90#VERS#DATE#####: 2021-06-21
+90#VERS#ISSUES###: NO_MAJOR_ISSUES
