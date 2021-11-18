@@ -3,9 +3,7 @@
 00#VERS#URI######: 0717CalaDinIbnCabdZahir.RawdZahir.GVDB20200607-ara1
 80#VERS#BASED####: http://www.worldcat.org/oclc/867999944
 80#VERS#COLLATED#: http://www.worldcat.org/oclc/867999944
-80#VERS#LINKS####: https://studentshistory13.com/archives/16399,  http:/
-    /download1075.mediafire.com/xbh63h1lw9gg/i9i1nou6w26y24i/الروض+الزاهر+فى
-    +غزوة+الملك+الناصر+المناقب+المظفرية+ى.pdf
+80#VERS#LINKS####: http://download1075.mediafire.com/xbh63h1lw9gg/i9i1nou6w26y24i/الروض+الزاهر+فى+غزوة+الملك+الناصر+المناقب+المظفرية+ى.pdf
 90#VERS#ANNOTATOR: Gowaart Van Den Bossche
 90#VERS#COMMENT##: This is the result of an OCR process with Google
     Drive, corrected manually.  The edition is based on one defective
@@ -21,5 +19,6 @@
     belong together.  The edition additionally includes dozens of excerpts
     from other  sources on the same subject, but I have not digitised these,
     as they are not directly related to this text.
+   NOTE OF THE REVIEWER (HRH): Untagged the header for the title of the text. 2- I raised an issue for the separation of the short dhayl at the end of the text.
 90#VERS#DATE#####: 2020-06-07
 90#VERS#ISSUES###: NO_MAJOR_ISSUES
