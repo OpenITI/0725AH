@@ -1,5 +1,5 @@
-00#VERS#CLENGTH##: 2825175
-00#VERS#LENGTH###: 654421
+00#VERS#CLENGTH##: 1605088
+00#VERS#LENGTH###: 374534
 00#VERS#URI######: 0723IbnFuwati.MajmacAdab.Sham19Y0014075-ara1
 80#VERS#BASED####: http://www.worldcat.org/oclc/36892166
 80#VERS#COLLATED#: http://www.worldcat.org/oclc/36892166
@@ -13,7 +13,7 @@
     still on two or more lines and sometimes spread over pages (as is the case
     in
     the edition), which perhaps needs to be addressed later on.
- I deleted editorial sections and footnote markers, tagged poetry (there were a
+    I deleted editorial sections and footnote markers, tagged poetry (there were a
     handful of cases of overtagging, i.e. of non-poetry being tagged, which I
     have
     deleted, but some may remain). Pagination appears to be correct, though I
@@ -30,6 +30,6 @@
     9948, 13910, 15445, 26357, 28323, 28399, 29231, 32323, 34114, 35005, 35718,
     35743, 36110, 37938, 38157, 39035, 39077, 40626, 42759, 43438, 43884, 45423,
     45599, 47011, 50054, 51678
-   NOTE OF THE REVIEWER (HRH): No changes.
+    NOTE OF THE REVIEWER (HRH): No changes.
 90#VERS#DATE#####: 2021-06-21
 90#VERS#ISSUES###: NO_MAJOR_ISSUES
