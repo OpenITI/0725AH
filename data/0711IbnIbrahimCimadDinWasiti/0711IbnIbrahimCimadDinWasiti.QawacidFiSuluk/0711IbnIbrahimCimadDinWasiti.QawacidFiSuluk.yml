@@ -1,8 +1,7 @@
 00#BOOK#URI######: 0711IbnIbrahimCimadDinWasiti.QawacidFiSuluk
 10#BOOK#GENRES###: src@keyword, src@keyword, src@keyword
-10#BOOK#TITLEA#AR: Qawāʿid al-sulūk ilá Allãh taʿālá aw al-sayr ʿalá
-    l-minhāǧ
-10#BOOK#TITLEB#AR: none
+10#BOOK#TITLEA#AR: Qawāʿid fī al-sulūk ilá Al-lãh taʿālá
+10#BOOK#TITLEB#AR: al-sayr ʿalá al-minhāǧ
 20#BOOK#WROTE####: URIs from Althurayya, comma separated
 30#BOOK#WROTE##AH: YEAR-MON-DA (X+ for unknown)
 40#BOOK#RELATED##: URI of a book from OpenITI, or [Author's Title],
