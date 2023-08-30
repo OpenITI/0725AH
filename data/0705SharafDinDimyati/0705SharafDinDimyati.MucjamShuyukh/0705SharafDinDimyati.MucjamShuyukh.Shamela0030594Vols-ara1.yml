@@ -10,4 +10,4 @@
     PV merged these text files. 
     The text includes page numbers, but all pages are 000.
 90#VERS#DATE#####: YYYY-MM-DD
-90#VERS#ISSUES###: PRIMARY_VERSION, PAGINATION
+90#VERS#ISSUES###: PRIMARY_VERSION, PAGINATION, CLEANED_VERSION
