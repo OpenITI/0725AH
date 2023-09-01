@@ -6,7 +6,10 @@
 80#VERS#LINKS####: https://k-tb.com/book/trajm00798-عنوان-الدراية-في-من-عرف-من-العلماء-في-المائة-السابعة-ببجاية
 90#VERS#ANNOTATOR: SP Loynes
 90#VERS#COMMENT##: Very good digital edition conforming very closely to
-    the printed edition. The following HTML line runs throughout: <div
-    dir="rtl" id="book-container">, as well as some others.
+        the printed edition. The following HTML line runs throughout: <div
+        dir="rtl" id="book-container">, as well as some others.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
 90#VERS#DATE#####: 2020-05-21
-90#VERS#ISSUES###: EDITORIAL_SECTIONS, HTML_TAGS
+90#VERS#ISSUES###: EDITORIAL_SECTIONS, HTML_TAGS, PRIMARY_VERSION, CLEANED_VERSION
