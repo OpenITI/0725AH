@@ -19,5 +19,6 @@
     removed by HRH and MGR (OpenITI Clean operation, 2023)
     Link to the text file as it was before it was cleaned:
     https://raw.githubusercontent.com/OpenITI/0725AH/pre-clean/data/0725BaybarsMansuri/0725BaybarsMansuri.MukhtarAkhbar/0725BaybarsMansuri.MukhtarAkhbar.GVDB20210106-ara1.mARkdown
-90#VERS#DATE#####: 2021-01-06
-90#VERS#ISSUES###: MISSING_PARTS, PRIMARY_VERSION, CLEANED_VERSION
+    Update 2023: Gowaart merged the edition with the part of the manuscript that was not included in the published edition (Milan Ambrosiana Library Ambrosiana C45inf) via eScriptorium, the edition via Google OCR. The text was cleaned up and annotated by Gowaart. Page 6 which was missing in the previous version was also digitised when assembling the text.
+90#VERS#DATE#####: 2023-10-03
+90#VERS#ISSUES###: NO_MAJOR_ISSUES
