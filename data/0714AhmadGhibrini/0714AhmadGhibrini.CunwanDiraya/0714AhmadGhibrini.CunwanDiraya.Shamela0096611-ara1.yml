@@ -1,5 +1,5 @@
-00#VERS#CLENGTH##: 218693
-00#VERS#LENGTH###: 51685
+00#VERS#CLENGTH##: 218403
+00#VERS#LENGTH###: 51621
 00#VERS#URI######: 0714AhmadGhibrini.CunwanDiraya.Shamela0096611-ara1
 80#VERS#BASED####: http://www.worldcat.org/oclc/929543375
 80#VERS#COLLATED#: http://www.worldcat.org/oclc/929543375
@@ -14,6 +14,8 @@
     Link to the text file as it was before it was cleaned:
     https://raw.githubusercontent.com/OpenITI/0725AH/pre-
     clean/data/0714AhmadGhibrini/0714AhmadGhibrini.CunwanDiraya/0714AhmadGhibrini.CunwanDiraya.Shamela0096611-ara1.completed
-   NOTE OF THE REVIEWER (HRH): Untagged headers tagged. 2. Pages 163-173 is an index of Ibn Arabi’s writings produced by himself (see page 159) and should be split off. I raised an issue for this.
+    NOTE OF THE REVIEWER (HRH): Untagged headers tagged. 2. Pages 163-173 is an
+    index of Ibn Arabi’s writings produced by himself (see page 159) and should be
+    split off. I raised an issue for this.
 90#VERS#DATE#####: 2020-05-21
 90#VERS#ISSUES###: NO_MAJOR_ISSUES, PRIMARY_VERSION, CLEANED_VERSION
