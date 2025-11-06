@@ -13,5 +13,6 @@
 30#AUTH#DIED###AH: 0723-MON-DA
 40#AUTH#STUDENTS#: AUTH_URI from OpenITI, comma separated
 40#AUTH#TEACHERS#: AUTH_URI from OpenITI, comma separated
+70#AUTH#EXTID####: wikidata@Q5984303
 80#AUTH#BIBLIO###: src@id, src@id, src@id, src@id, src@id
 90#AUTH#COMMENT##: EI2: "Kamāl al-Dīn ʿAbd al-Razzāḳ b. Aḥmad , historian and librarian, born in Bag̲h̲dād on 17 Muḥarram 642/25 June 1244.": http://dx.doi.org/10.1163/1573-3912_islam_SIM_3165

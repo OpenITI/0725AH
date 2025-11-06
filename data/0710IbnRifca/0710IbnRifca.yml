@@ -12,7 +12,8 @@
 30#AUTH#BORN###AH: 0645-XX-XX (X+ for unknown)
 30#AUTH#DIED###AH: 0710-RAJ-18 (X+ for unknown)
 40#AUTH#STUDENTS#: AUTH_URI from OpenITI, comma separated
-40#AUTH#TEACHERS#: 0684ShihabDinQarafi 
+40#AUTH#TEACHERS#: 0684ShihabDinQarafi
+70#AUTH#EXTID####: wikidata@Q61763021
 80#AUTH#BIBLIO###: src@id, src@id, src@id, src@id, src@id
 90#AUTH#COMMENT##: a free running comment here; you can add as many
     lines as you see fit; the main goal of this comment section is to have a

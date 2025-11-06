@@ -13,5 +13,6 @@
 30#AUTH#DIED###AH: 0711-SHC-XX
 40#AUTH#STUDENTS#: AUTH_URI from OpenITI, comma separated
 40#AUTH#TEACHERS#: AUTH_URI from OpenITI, comma separated
+70#AUTH#EXTID####: wikidata@Q1397028
 80#AUTH#BIBLIO###: src@id, src@id, src@id, src@id, src@id
 90#AUTH#COMMENT##: EI2: "Muḥammad b. Mukarram b. ʿAlī b. Aḥmad al-Anṣārī al-Ifrīḳī al-Miṣrī d̲j̲amāl al-Dīn Abu ’l-Faḍl , author of the famous dictionary Lisān al-ʿArab , in the East known as Ibn Mukarram , was born in Ramaḍān 630/June-July 1233 and died in S̲h̲aʿbān 711/December 1311-January 1312.": http://dx.doi.org/10.1163/1573-3912_islam_SIM_3284
